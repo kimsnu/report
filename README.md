@@ -1,7 +1,7 @@
 # reporti
 # REPresentative ORThologs Identifier
 
-The main concept is designating a representative gene of in-paralogs (co-orthologs) which stands for the most conserved genes that are assigned based on the phylogenetic tree between all member of orthologs including the co-orthologs in the other species (Figure a). If the in-paralogs are ancestral genes, the software designates a representative gene among the ancestral in-paralogs and finally the descendant genes are assigned to the representative genes (Figure b).
+The main concept is designating a representative gene of in-paralogs (co-orthologs) which stands for the most conserved genes that are assigned based on the phylogenetic tree between all member of orthologs including the co-orthologs in the other species. If the in-paralogs are ancestral genes, the software designates a representative gene among the ancestral in-paralogs and finally the descendant genes are assigned to the representative genes.
 
 <img width="942" height="778" alt="image" src="https://github.com/user-attachments/assets/437415d0-4825-4710-911a-d2853f1c55f8" />
 

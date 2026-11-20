@@ -9,10 +9,10 @@ The main concept is designating a representative gene of in-paralogs (co-ortholo
 
 # To make the longest translation
 **CDS fasta**
-python3 longest_translation.py --type cds --outdir longest_cds "*.fa"
+python3 longest_translation.py --type cds --outdir longest_cds "*.fasta"
 
 **AA fasta**
-python3 longest_translation.py --type aa --outdir longest_aa "*.fa"
+python3 longest_translation.py --type aa --outdir longest_aa "*.fasta"
 
 # To make representative orthologs
 sudo apt install diamond-aligner

@@ -30,6 +30,7 @@ python3 longest_translation.py --type aa --outdir longest_aa "*.fasta.gz"
 sudo apt install diamond-aligner
 
 
+
 python3 ring_rbh.py --type cds --threads 100 --outdir rbh_cds \\
 
   at=Arabidopsis_thaliana.TAIR10.cds.all.longest.fasta \\

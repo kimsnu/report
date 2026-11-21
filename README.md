@@ -10,9 +10,13 @@ Figure. Many-to-many orthologs by speciation and gene duplication events. X and 
 # To make the longest translation
 **CDS fasta**
 python3 longest_translation.py --type cds --outdir longest_cds "*.fasta"
+or
+python3 longest_translation.py --type cds --outdir longest_cds "*.fasta.gz"
 
 **AA fasta**
 python3 longest_translation.py --type aa --outdir longest_aa "*.fasta"
+or
+python3 longest_translation.py --type aa --outdir longest_aa "*.fasta.gz"
 
 # To make representative orthologs
 sudo apt install diamond-aligner

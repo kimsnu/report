@@ -41,4 +41,5 @@ python3 ring_rbh.py --type cds --threads 100 --outdir rbh_cds \\
   
 &emsp; pv=Phaseolus_vulgaris.PhaVulg1_0.cds.all.longest.fasta \\
 
-&emsp; vf=Vicia_faba.Hedin2_genome_v1.cds.all.longest.fasta
+&emsp; vf=Vicia_faba.Hedin2_genome_v1.cds.all.longest.fasta \\
+&emsp; ...

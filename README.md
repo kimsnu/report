@@ -12,7 +12,7 @@ Figure. Many-to-many orthologs by speciation and gene duplication events. X and 
 
 python3 longest_translation.py --type cds --outdir longest_cds "*.fasta"
 
-**or**
+*or*
 
 python3 longest_translation.py --type cds --outdir longest_cds "*.fasta.gz"
 
@@ -21,7 +21,7 @@ python3 longest_translation.py --type cds --outdir longest_cds "*.fasta.gz"
 
 python3 longest_translation.py --type aa --outdir longest_aa "*.fasta"
 
-**or**
+*or*
 
 python3 longest_translation.py --type aa --outdir longest_aa "*.fasta.gz"
 

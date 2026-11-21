@@ -5,14 +5,14 @@ The main concept is designating a representative gene of in-paralogs (co-ortholo
 
 <img width="463" height="389" alt="image" src="https://github.com/user-attachments/assets/55f5b840-2af1-4dd8-be96-50a6d643fa86" />
 
-Figure. Many-to-many orthologs by speciation and gene duplication events. X and Y are duplication events, Z is a speciation node. α3A and α5B are representative orthologs.
+Figure. Many-to-many orthologs by speciation and gene duplication events. X and Y are duplication events, Z is a speciation node. ***α3A*** and ***α5B*** are representative orthologs.
 
 # To make the longest translation
 **CDS fasta**
 
 python3 longest_translation.py --type cds --outdir longest_cds "*.fasta"
 
-or
+***or***
 
 python3 longest_translation.py --type cds --outdir longest_cds "*.fasta.gz"
 
@@ -21,7 +21,7 @@ python3 longest_translation.py --type cds --outdir longest_cds "*.fasta.gz"
 
 python3 longest_translation.py --type aa --outdir longest_aa "*.fasta"
 
-or
+***or***
 
 python3 longest_translation.py --type aa --outdir longest_aa "*.fasta.gz"
 

@@ -33,12 +33,12 @@ sudo apt install diamond-aligner
 <br>
 python3 ring_rbh.py --type cds --threads 100 --outdir rbh_cds \\
 
-  at=Arabidopsis_thaliana.TAIR10.cds.all.longest.fasta \\
+&ensp; at=Arabidopsis_thaliana.TAIR10.cds.all.longest.fasta \\
   
-  gm=Glycine_max.Glycine_max_v2.1.cds.all.longest.fasta \\
+&ensp; gm=Glycine_max.Glycine_max_v2.1.cds.all.longest.fasta \\
   
-  mt=Medicago_truncatula.MtrunA17r5.0_ANR.cds.all.longest.fasta \\
+&ensp;  mt=Medicago_truncatula.MtrunA17r5.0_ANR.cds.all.longest.fasta \\
   
-  pv=Phaseolus_vulgaris.PhaVulg1_0.cds.all.longest.fasta \\
+&ensp;  pv=Phaseolus_vulgaris.PhaVulg1_0.cds.all.longest.fasta \\
   
-  vf=Vicia_faba.Hedin2_genome_v1.cds.all.longest.fasta
+&ensp;  vf=Vicia_faba.Hedin2_genome_v1.cds.all.longest.fasta

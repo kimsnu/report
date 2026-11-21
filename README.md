@@ -29,6 +29,8 @@ python3 longest_translation.py --type aa --outdir longest_aa "*.fasta.gz"
 # To make representative orthologs
 sudo apt install diamond-aligner
 <br>
+<br>
+<br>
 python3 ring_rbh.py --type cds --threads 100 --outdir rbh_cds \\
 
   at=Arabidopsis_thaliana.TAIR10.cds.all.longest.fasta \\
